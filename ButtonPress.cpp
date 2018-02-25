@@ -1,5 +1,4 @@
 #include "ButtonPress.h"
-
 #include <Arduino.h>
 
 void ButtonPress::begin(int pin) {
